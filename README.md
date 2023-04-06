@@ -1,5 +1,6 @@
 # Room Database
-![](../../../Desktop/Screen Shot 2023-04-04 at 6.36.09 AM.png)
+<img width="613" alt="Screen Shot 2023-04-04 at 6 36 09 AM" src="https://user-images.githubusercontent.com/29136735/230316313-3f626d73-dafa-452b-ac7e-68ad34c45422.png">
+
 
 ## Description
 - This is a sample Android app that demonstrates the use of Room, a SQLite object mapping library, to perform CRUD (Create, Read, Update, Delete) operations on a local database.
